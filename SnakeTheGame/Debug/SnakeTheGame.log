@@ -1,0 +1,3 @@
+﻿  SnakeTheGame.cpp
+c:\users\user\source\repos\snakethegame\snakethegame\snakethegame.cpp(36): warning C4309: 'initializing': truncation of constant value
+  SnakeTheGame.vcxproj -> C:\Users\User\source\repos\SnakeTheGame\Debug\SnakeTheGame.exe
